@@ -1,0 +1,2 @@
+Jul  9 10:02:00 localhost kernel: [12345.678901] systemd[1]: Started Session 1 of user root.
+Jul  9 10:06:00 localhost kernel: [12346.678901] systemd[1]: Stopped target Local File Systems.
