@@ -59,5 +59,5 @@ Supervisor: Sir Muhammad Rizwan Shahid
 
 ==============================
 ✅ GITHUB LINK (optional):
-https://github.com/your-username/log-parser-tool
+https://github.com/maryam1739/log-parser-tool
 (Replace with your actual GitHub URL after uploading)
